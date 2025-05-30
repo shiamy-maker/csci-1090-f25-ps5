@@ -21,7 +21,7 @@ I will post a copy of my notebook from class, which has lots of examples answeri
 
 ## Deliverables
 
-This problem set is due **Wednesday, October 23, 11:59pm EDT**. Remember this is how you submit:
+This problem set is due **Wednesday, October 22, 11:59pm EDT**. Remember this is how you submit:
 
 1. Download the notebook to your computer, move it to this repository, and add, commit, and push it, just as you did for Python files in your previous problem sets.
 
